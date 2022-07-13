@@ -13,3 +13,4 @@ To run
 
 Bugmgmt
 Green
+sudo

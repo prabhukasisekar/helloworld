@@ -14,4 +14,4 @@ To run
 macos
 starter01
 bashcluster
-bashcluster
+bash-pre

@@ -17,3 +17,4 @@ bashcluster
 bash-pre
 basdlinuxdc
 testawseks
+plugintest

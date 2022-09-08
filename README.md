@@ -16,3 +16,4 @@ starter01
 bashcluster
 bash-pre
 basdlinuxdc
+testawseks

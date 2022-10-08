@@ -18,3 +18,4 @@ bash-pre
 basdlinuxdc
 testawseks
 plugintest
+cleartext

@@ -19,7 +19,4 @@ basdlinuxdc
 testawseks
 plugintest
 cleartext t
-
-
-
-
+reinstall noncluster

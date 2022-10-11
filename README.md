@@ -21,3 +21,4 @@ plugintest
 cleartext t
 reinstall noncluster
 noncluste-install
+rerun

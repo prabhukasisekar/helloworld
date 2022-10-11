@@ -20,3 +20,4 @@ testawseks
 plugintest
 cleartext t
 reinstall noncluster
+noncluste-install

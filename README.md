@@ -23,3 +23,4 @@ reinstall noncluster
 noncluste-install
 rerun
 Gradlebuild
+clearupgrade

@@ -24,3 +24,4 @@ noncluste-install
 rerun
 Gradlebuild
 clearupgrade
+trigger-common

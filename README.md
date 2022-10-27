@@ -25,3 +25,4 @@ rerun
 Gradlebuild
 clearupgrade
 trigger-common
+cluster-compkg

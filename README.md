@@ -28,3 +28,4 @@ trigger-common
 cluster-compkg
 awsstandalon
 awsami
+gcpcluster

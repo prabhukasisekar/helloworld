@@ -26,3 +26,4 @@ Gradlebuild
 clearupgrade
 trigger-common
 cluster-compkg
+awsstandalone

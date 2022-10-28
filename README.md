@@ -27,3 +27,4 @@ clearupgrade
 trigger-common
 cluster-compkg
 awsstandalon
+awsami

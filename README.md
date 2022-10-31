@@ -31,3 +31,4 @@ awsami
 gcpcluster
 Azurecluster
 azureami
+post-ro-awsstandalone

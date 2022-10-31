@@ -30,3 +30,4 @@ awsstandalon
 awsami
 gcpcluster
 Azurecluster
+azureami

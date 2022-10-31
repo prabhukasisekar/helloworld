@@ -29,3 +29,4 @@ cluster-compkg
 awsstandalon
 awsami
 gcpcluster
+Azurecluster

@@ -16,3 +16,4 @@ CD Pipeline
 hotfix
 post upgrade
 141
+reinstall
